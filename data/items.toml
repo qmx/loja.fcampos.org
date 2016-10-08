@@ -22,18 +22,45 @@ reserved = false
 [[items]]
 id = "004"
 title = "Cobertor"
-description = "Nunca foi usada"
+description = "Nunca foi usado"
+price = "R$ 60,00"
+enabled = true
+reserved = false
+[[items]]
+id = "005"
+title = "Bateria de Estudo Vamper"
+description = "excelente estado de conservação"
 price = "R$ 200,00"
 enabled = true
 reserved = false
 [[items]]
+id = "006"
+title = "Controller Alesis A61 c/ Suporte"
+description = "Conexão USB"
+price = "R$ 500,00"
+enabled = true
+reserved = false
+[[items]]
+id = "007"
+title = "Rack p/ TV"
+description = "Excelente estado de conservação"
+price = "R$ 200,00"
+enabled = true
+reserved = false
+[[items]]
+id = "008"
+title = "Mesa de Granito + 6 cadeiras novas"
+description = "Excelente estado de conservação"
+price = "R$ 800,00"
+enabled = true
+reserved = false
+[[items]]
+id = "009"
 title = "Espremedor de Laranja"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
 description = "Nunca foi usada"
 price = "R$ 50,00"
+enabled = true
 reserved = false
-url = ""
 [[items]]
 title = "Faqueiro Tramontina"
 image = "images/full/1.png"
@@ -60,35 +87,11 @@ price = "R$ 2000,00"
 reserved = false
 url = ""
 [[items]]
-title = "Mesa de Granito + 6 cadeiras novas"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
-description = "Excelente estado de conservação"
-price = "R$ 800,00"
-reserved = false
-url = ""
-[[items]]
 title = "Sofá 3 lugares Corino com Chaise"
 image = "images/full/1.png"
 thumb = "images/thumbs/1.png"
 description = "Excelente estado de conservação"
 price = "R$ 1500,00"
-reserved = false
-url = ""
-[[items]]
-title = "Rack p/ TV"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
-description = "Excelente estado de conservação"
-price = "R$ 200,00"
-reserved = false
-url = ""
-[[items]]
-title = "Controller Alesis A61 c/ Suporte"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
-description = "Conexão USB"
-price = "R$ 500,00"
 reserved = false
 url = ""
 [[items]]
@@ -161,14 +164,6 @@ image = "images/full/1.png"
 thumb = "images/thumbs/1.png"
 description = ""
 price = "R$ 450,00"
-reserved = false
-url = ""
-[[items]]
-title = "Bateria de Estudo Vamper"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
-description = ""
-price = "R$ 200,00"
 reserved = false
 url = ""
 [[items]]
