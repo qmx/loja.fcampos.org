@@ -1,3 +1,11 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "http://loja.fcampos.org/"
+languageCode = "pt_BR"
+title = "Família Campos vende tudo"
+theme = "loja"
+
+[params]
+    # Meta
+    title = "Família Campos vende tudo"
+    subtitle = "Estamos de mudança para o exterior - apenas pagamento à vista - venda apenas para retirada em Santo André, SP, **não fazemos entregas**."
+    buttontext = "Eu quero!"
+    footertext = "&copy;2016 [qmx](http://qmx.me) - Design stolen from [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [aerohub](https://github.com/aerohub)"
