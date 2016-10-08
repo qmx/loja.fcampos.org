@@ -1,3 +1,12 @@
+# eletrônicos
+[[items]]
+id = "027"
+title = "Impressora 3D Printrbot Simple Metal"
+description = ""
+price = "R$ 800,00"
+reserved = false
+enabled = true
+
 [[items]]
 title = "TV 32 LCD Samsung"
 id = "001"
@@ -5,6 +14,8 @@ description = "TV em excelente estado, está faltando o parafuso da base (ela fi
 price = "R$ 300,00"
 enabled = true
 reserved = true
+
+# móveis
 [[items]]
 title = "Poltrona em Corino"
 id = "002"
@@ -12,34 +23,7 @@ description = "Poltrona Linda"
 price = "R$ 200,00"
 enabled = true
 reserved = false
-[[items]]
-id = "003"
-title = "Panela Elétrica Electrolux"
-description = "Nunca foi usada"
-price = "R$ 200,00"
-enabled = true
-reserved = false
-[[items]]
-id = "004"
-title = "Cobertor"
-description = "Nunca foi usado"
-price = "R$ 60,00"
-enabled = true
-reserved = false
-[[items]]
-id = "005"
-title = "Bateria de Estudo Vamper"
-description = "excelente estado de conservação"
-price = "R$ 200,00"
-enabled = true
-reserved = false
-[[items]]
-id = "006"
-title = "Controller Alesis A61 c/ Suporte"
-description = "Conexão USB"
-price = "R$ 500,00"
-enabled = true
-reserved = false
+
 [[items]]
 id = "007"
 title = "Rack p/ TV"
@@ -47,6 +31,7 @@ description = "Excelente estado de conservação"
 price = "R$ 200,00"
 enabled = true
 reserved = false
+
 [[items]]
 id = "008"
 title = "Mesa de Granito + 6 cadeiras novas"
@@ -54,171 +39,199 @@ description = "Excelente estado de conservação"
 price = "R$ 800,00"
 enabled = true
 reserved = false
+
+[[items]]
+id = "022"
+title = "Sofá 3 lugares Corino com Chaise"
+description = "Encosto regulável, Excelente estado de conservação"
+price = "R$ 1500,00"
+reserved = false
+enabled = true
+
+# cozinha
+[[items]]
+id = "003"
+title = "Panela Elétrica Electrolux"
+description = "Nunca foi usada"
+price = "R$ 150,00"
+enabled = true
+reserved = false
+
+[[items]]
+id = "010"
+title = "Fogão Brastemp Clean 5 Bocas BF575AR"
+description = "Excelente estado de conservação"
+price = "R$ 500,00"
+reserved = false
+enabled = true
+
+[[items]]
+id = "011"
+title = "Geladeira Brastemp Inverse 422l BRE50NR"
+description = "Excelente estado de conservação"
+price = "R$ 2000,00"
+reserved = false
+enabled = true
+
+# instrumentos musicais / audio
+[[items]]
+id = "005"
+title = "Bateria de Estudo Vamper"
+description = "excelente estado de conservação"
+price = "R$ 200,00"
+enabled = true
+reserved = false
+
+[[items]]
+id = "006"
+title = "Controller Alesis A61 c/ Suporte"
+description = "Conexão USB"
+price = "R$ 500,00"
+enabled = true
+reserved = false
+
+[[items]]
+id = "015"
+title = "Interface de Áudio M-Audio FastTrack C600 6x8"
+description = "Excelente estado de conservação"
+price = "R$ 900,00"
+reserved = false
+enabled = true
+
+# cama/mesa/banho
+[[items]]
+id = "004"
+title = "Cobertor"
+description = "Nunca foi usado"
+price = "R$ 60,00"
+enabled = true
+reserved = false
+
 [[items]]
 id = "009"
 title = "Espremedor de Laranja"
-description = "Nunca foi usada"
+description = "Na caixa"
 price = "R$ 50,00"
 enabled = true
 reserved = false
+
 [[items]]
+id = "011"
 title = "Faqueiro Tramontina"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
+description = "Na caixa"
+price = "R$ 100,00"
+reserved = false
+enabled = false
+
+[[items]]
+id = "023"
+title = "Modelador Cachos médios Taiff"
 description = "Na caixa"
 price = "R$ 100,00"
 reserved = false
 enabled = true
-url = ""
 [[items]]
-title = "Fogão Brastemp Clean 5 Bocas BF575AR"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
-description = "Excelente estado de conservação"
-price = "R$ 700,00"
-reserved = false
-url = ""
-[[items]]
-title = "Geladeira Brastemp Inverse 422l BRE50NR"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
-description = "Excelente estado de conservação"
-price = "R$ 2000,00"
-reserved = false
-url = ""
-[[items]]
-title = "Sofá 3 lugares Corino com Chaise"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
-description = "Excelente estado de conservação"
-price = "R$ 1500,00"
-reserved = false
-url = ""
-[[items]]
-title = "Interface de Áudio M-Audio FastTrack C600 6x8"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
-description = "Excelente estado de conservação"
-price = "R$ 900,00"
-reserved = false
-url = ""
-[[items]]
+id = "009"
 title = "Microfone Behringer C1 - Acompanha pedestal"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
 description = ""
 price = "R$ 300,00"
 reserved = false
-url = ""
+enabled = false
 [[items]]
-title = "Bandeja de Café da Manhã Tramontina"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
-description = ""
-price = "R$ 30,00"
-reserved = false
-url = ""
-[[items]]
+id = "009"
 title = "Aparelho de Jantar Oxford Cerâmica"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
 description = ""
 price = "R$ 400,00"
 reserved = false
-url = ""
+enabled = false
 [[items]]
+id = "016"
 title = "Aquecedor a óleo mondial"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
 description = ""
-price = "R$ 250,00"
+price = "R$ 200,00"
 reserved = false
-url = ""
+enabled = true
 [[items]]
+id = "018"
 title = "Ventilador Arno 6 pás Branco"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
 description = ""
 price = "R$ 50,00"
 reserved = false
-url = ""
+enabled = true
 [[items]]
+id = "017"
 title = "Ventilador Arno 6 pás Preto"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
 description = ""
 price = "R$ 60,00"
 reserved = false
-url = ""
+enabled = true
 [[items]]
+id = "019"
 title = "Mesa digitalizadora Bamboo"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
 description = ""
-price = "R$ 100,00"
+price = "R$ 80,00"
 reserved = false
-url = ""
+enabled = true
 [[items]]
-title = "Guarda-roupa solteiro"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
+id = "024"
+title = "Guarda-roupas casal"
 description = ""
-price = "R$ 450,00"
+price = "R$ 1200,00"
+enabled = true
 reserved = false
-url = ""
 [[items]]
+id = "026"
+title = "Jogo 6 Canecas Cappucino 150ml Lyor"
+description = "na caixa"
+price = "R$ 30,00"
+enabled = true
+reserved = false
+[[items]]
+id = "013"
 title = "Mesa Conjugada/Conversível"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
 description = ""
 price = "R$ 750,00"
 reserved = false
-url = ""
+enabled = true
 [[items]]
+id = "012"
 title = "Forno de Microondas Electrolux"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
 description = "praticamente novo"
 price = "R$ 400,00"
 reserved = false
-url = ""
+enabled = true
 [[items]]
+id = "020"
 title = "Jarra Elétrica Mondial"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
 description = ""
 price = "R$ 30,00"
 reserved = false
-url = ""
+enabled = true
 [[items]]
+id = "021"
+title = "Aquecedor"
+description = ""
+price = "R$ 30,00"
+reserved = false
+enabled = true
+[[items]]
+id = "009"
 title = "Multiprocessador + Liquidificador 600W"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
 description = ""
 price = "R$ 100,00"
 reserved = false
-url = ""
+enabled = false
 [[items]]
+id = "009"
 title = "Máquina de Waffle"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
 description = ""
 price = "R$ 75,00"
 reserved = false
-url = ""
+enabled = false
 [[items]]
+id = "009"
 title = "Batedeira Planetária Arno"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
 description = "Funcionando bem mas já foi bastante utilizada"
 price = "R$ 50,00"
 reserved = false
-url = ""
-[[items]]
-title = "Impressora 3D Printrbot Simple Metal"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
-description = ""
-price = "R$ 1000,00"
-reserved = false
-url = ""
+enabled = false
